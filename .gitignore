@@ -51,3 +51,7 @@ yarn-error.*
 .env
 .env.*
 !.env.example
+mcp.json
+**/mcp.json
+.kiro/settings/mcp.json
+.cursor/settings/mcp.json
